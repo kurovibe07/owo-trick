@@ -3,11 +3,11 @@
   <br>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=40&pause=1000&color=802DF7&center=true&vCenter=true&random=false&width=425&lines=Owo+Dusk" alt="Typing SVG" />
   <br/>
-  <a href="https://discord.gg/hDDrKhWPqr"><img src="https://invidget.switchblade.xyz/hDDrKhWPqr" alt="Discord Invite"/> </a>
+  <a href="https://https://discord.gg/W8jvhRaEyw"><img src="https://cashstore.bolt.host/" alt="Discord Invite"/> </a>
   <br/>
   <small><p>join our discord! (Join with a second account please, one that hasn't and won't use owobot!)<br>
   <small><p>If you join with an account that plays owobot, you WILL get banned from using owo bot!)<br>
-  Alternatively, send a friend request to `@echoquill` on discord for help!</p></small>
+  Alternatively, send a friend request to `@itsme_shlok` on discord for help!</p></small>
 </div>
 
 
@@ -76,9 +76,9 @@ Best selfbot for owobot currently with alot of cool features like Boss battles, 
 ---
 # DONATE
 ---
-Crypto: Solana, USDC, USDT and all SPL tokens :
+Crypto: LTC :
 ```
-5DeBoaojcodJ8cNDAatTJLvajBPg5k9hCGXBFcUPmVCW
+
 ```
 (keep in mind that USDC and USDT must be send via "solana network")
 
